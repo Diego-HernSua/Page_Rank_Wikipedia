@@ -1,5 +1,5 @@
 # Page Rank (Massive Computing)
-This project involves the creation and implementation of the PageRank algorithm utilizing Apache Spark within the Databricks environment. The focus is on efficiently computing the ranking of web pages based on link structures obtained from Wikipedia
+This project involves the creation and implementation of the PageRank algorithm utilizing Apache Spark within the Databricks environment. The focus is on efficiently computing the ranking of web pages based on link structures obtained from Wikipedia.
 
 ## Understanding PageRank
 PageRank is a fundamental algorithm used by search engines like Google to determine the importance of web pages. Developed by Larry Page, one of Google’s founders, it calculates a ranking for each web page based on its link structure. The more important the pages linking to a given page, the higher its PageRank.
